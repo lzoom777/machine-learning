@@ -6,7 +6,7 @@
 [5、决策树之CART算法](https://github.com/lzoom777/machine-learning/blob/main/5%E3%80%81%E5%86%B3%E7%AD%96%E6%A0%91%E4%B9%8BCART%E7%AE%97%E6%B3%95.ipynb)  
 [6、感知机](https://github.com/lzoom777/machine-learning/blob/main/6%E3%80%81%E6%84%9F%E7%9F%A5%E6%9C%BA.ipynb)  
 [7、神经网络](https://github.com/lzoom777/machine-learning/blob/main/7%E3%80%81%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)  
-[8、线性可分支持向量机](https://github.com/lzoom777/machine-learning/blob/main/8%E3%80%81%E7%BA%BF%E6%80%A7%E5%8F%AF%E5%88%86%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA.ipynb) 
+[8、线性可分支持向量机](https://github.com/lzoom777/machine-learning/blob/main/8%E3%80%81%E7%BA%BF%E6%80%A7%E5%8F%AF%E5%88%86%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA.ipynb)  
 [9、线性支持向量机](https://github.com/lzoom777/machine-learning/blob/main/9%E3%80%81%E7%BA%BF%E6%80%A7%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA.ipynb)  
 [10、线性不可分支持向量机](https://github.com/lzoom777/machine-learning/blob/main/10%E3%80%81%E7%BA%BF%E6%80%A7%E4%B8%8D%E5%8F%AF%E5%88%86%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA.ipynb)  
 [11、朴素贝叶斯](https://github.com/lzoom777/machine-learning/blob/main/11%E3%80%81%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF.ipynb)  
